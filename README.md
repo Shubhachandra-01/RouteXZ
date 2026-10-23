@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # I.T.VEDANT Business Rescue — Advanced Edition
 
 ## How to play
@@ -37,3 +38,6 @@ The visualization workflow is mandatory: students must build a chart, group reco
 - `datasets/level_6_ceo_last_decision.csv`
 
 All records are synthetic and intended for educational use, not operational business decisions.
+=======
+This is Description
+>>>>>>> origin/main
